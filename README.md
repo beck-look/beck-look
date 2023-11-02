@@ -1,4 +1,6 @@
-## Hi there 👋
+## Тестирование API 👋
+* [Коллекция Postman](https://github.com/beck-look/beck-look/tree/postm/Список%20тестовых%20заданий/Test%20Design)
+* [Web](https://github.com/beck-look/beck-look)
 
 
 
