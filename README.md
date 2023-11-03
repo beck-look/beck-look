@@ -1,5 +1,5 @@
 ## Тестирование API 👋
-* [Коллекция Postman](https://github.com/beck-look/beck-look/tree/postm/Список%20тестовых%20заданий/Test%20Design)
+* [Коллекция Postman](https://github.com/beck-look/beck-look/tree/postman
 * [Web](https://github.com/beck-look/beck-look)
 
 
