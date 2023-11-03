@@ -7,8 +7,8 @@
 * Web
   
 ## Тестирование API 👋
-* Коллекции Postman
-* Web
+* [Коллекции Postman](https://github.com/beck-look/tree/tree/main/Postman)
+
   
 ## Автоматизация тестирования
 * Selenium - JavaScript
