@@ -1,3 +1,5 @@
+## Тестирование Web
+* [Web](https://github.com/beck-look/tree/tree/main/Web)
 ## Тестирование API 👋
 * [Коллекции Postman](https://github.com/beck-look/tree/tree/main/Postman)
 * [Web](https://github.com/beck-look/beck-look)
