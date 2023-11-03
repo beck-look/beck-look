@@ -4,16 +4,16 @@
 * bug-report
 
 ## Тестирование Web
-* [Web](https://github.com/beck-look/tree/tree/main/Web)
+* Web
   
 ## Тестирование API 👋
-* [Коллекции Postman](https://github.com/beck-look/tree/tree/main/Postman)
-* [Web](https://github.com/beck-look/beck-look)
+* Коллекции Postman
+* Web
   
 ## Автоматизация тестирования
-* [Selenium - JavaScript](https://github.com/beck-look/tree/tree/main/JavaScript)
-* [Selenium - Python - allure](https://github.com/beck-look/tree/tree/main/Python)
-* [Cypress](https://github.com/beck-look/tree/tree/main/Cypress)
+* Selenium - JavaScript
+* Selenium - Python - allure
+* Cypress
 
 
 
