@@ -1,5 +1,5 @@
 ## Тестирование API 👋
-* [Коллекции Postman](https://github.com/beck-look/tree/blob/main/Postman/README.md)
+* [Коллекции Postman](https://github.com/beck-look/tree/tree/main/Postman)
 * [Web](https://github.com/beck-look/beck-look)
 
 
