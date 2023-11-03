@@ -1,8 +1,19 @@
+## Теория тестированиястирование API 👋
+* chek-list
+* test-case
+* bug-report
+
 ## Тестирование Web
 * [Web](https://github.com/beck-look/tree/tree/main/Web)
+  
 ## Тестирование API 👋
 * [Коллекции Postman](https://github.com/beck-look/tree/tree/main/Postman)
 * [Web](https://github.com/beck-look/beck-look)
+  
+## Автоматизация тестирования
+* [Selenium - JavaScript](https://github.com/beck-look/tree/tree/main/JavaScript)
+* [Selenium - Python - allure](https://github.com/beck-look/tree/tree/main/Python)
+* [Cypress](https://github.com/beck-look/tree/tree/main/Cypress)
 
 
 
