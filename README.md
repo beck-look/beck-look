@@ -10,8 +10,8 @@
 * [Коллекции Postman](https://github.com/beck-look/tree/tree/main/Postman)
 
   
-## Автоматизация тестирования
-screen из редактора и видео прогона автотестов
+## [Автоматизация тестирования](https://github.com/beck-look/tree/tree/main/QA_automation)
+Размещаю информацию в виде скриншота из редактора (PyCharm и VSC) и запуск прогона атотестов
 * [Selenium - Python - allure](https://disk.yandex.ru/i/nok9wxCeZBhrDQ)
 * Selenium - JavaScript
 * Cypress
