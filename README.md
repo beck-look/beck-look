@@ -11,7 +11,7 @@
 
   
 ## [Автоматизация тестирования](https://github.com/beck-look/tree/tree/main/QA_automation)
-Размещаю информацию в виде скриншота из редактора (PyCharm и VSC) и запуск прогона атотестов
+Размещаю информацию в виде скриншота из редактора (PyCharm и VSC) и видео запуска прогона автотестов
 * [Selenium - Python - allure](https://disk.yandex.ru/i/nok9wxCeZBhrDQ)
 * Selenium - JavaScript
 * Cypress
