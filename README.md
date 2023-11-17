@@ -11,8 +11,9 @@
 
   
 ## Автоматизация тестирования
+screen из редактора и видео прогона автотестов
+* [Selenium - Python - allure](https://disk.yandex.ru/i/nok9wxCeZBhrDQ)
 * Selenium - JavaScript
-* Selenium - Python - allure
 * Cypress
 
 
