@@ -5,6 +5,8 @@
 
 ## Тестирование Web
 * Web
+* Навыки работы с devtools
+* Опыт работы со Splunk
   
 ## Тестирование API 👋
 * [Коллекции Postman](https://github.com/beck-look/tree/tree/main/Postman)
@@ -14,7 +16,7 @@
 Размещаю информацию в виде скриншота из редактора (PyCharm и VSC) и видео запуска прогона автотестов
 * [Selenium - Python - allure](https://disk.yandex.ru/i/nok9wxCeZBhrDQ)
 * [Selenium - JavaScript](https://disk.yandex.ru/i/MwP6QstK9zV2Sg)
-* Cypress
+* Cypress, есть работы с этим фреймворком.
 
 
 
